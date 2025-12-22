@@ -1,0 +1,15 @@
+{
+  "ق": {
+    "name": "QAF",
+    "codepoint": "U+0642",
+    "joining": "DUAL",
+    "group": "ARABIC",
+    "notes": ["descender", "two dots above"]
+  },
+  "ا": {
+    "name": "ALEF",
+    "codepoint": "U+0627",
+    "joining": "RIGHT"
+  }
+}
+
