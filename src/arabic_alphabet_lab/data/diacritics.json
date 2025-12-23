@@ -1,0 +1,8 @@
+{
+  "َ": {"name": "FATHA", "codepoint": "U+064E", "type": "HARAKA"},
+  "ُ": {"name": "DAMMA", "codepoint": "U+064F", "type": "HARAKA"},
+  "ِ": {"name": "KASRA", "codepoint": "U+0650", "type": "HARAKA"},
+  "ْ": {"name": "SUKUN", "codepoint": "U+0652", "type": "SUKUN"},
+  "ّ": {"name": "SHADDA", "codepoint": "U+0651", "type": "MARK"}
+}
+

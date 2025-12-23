@@ -1,0 +1,5 @@
+{
+  "َ": {"name": "FATHA", "codepoint": "U+064E", "type": "HARAKA"},
+  "ْ": {"name": "SUKUN", "codepoint": "U+0652", "type": "SUKUN"}
+}
+
