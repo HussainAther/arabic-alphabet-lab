@@ -1,0 +1,32 @@
+{
+  "ا": {"name": "ALEF", "codepoint": "U+0627", "joining": "RIGHT"},
+  "د": {"name": "DAL", "codepoint": "U+062F", "joining": "RIGHT"},
+  "ذ": {"name": "THAL", "codepoint": "U+0630", "joining": "RIGHT"},
+  "ر": {"name": "RA", "codepoint": "U+0631", "joining": "RIGHT"},
+  "ز": {"name": "ZAY", "codepoint": "U+0632", "joining": "RIGHT"},
+  "و": {"name": "WAW", "codepoint": "U+0648", "joining": "RIGHT"},
+
+  "ب": {"name": "BA", "codepoint": "U+0628", "joining": "DUAL"},
+  "ت": {"name": "TA", "codepoint": "U+062A", "joining": "DUAL"},
+  "ث": {"name": "THA", "codepoint": "U+062B", "joining": "DUAL"},
+  "ج": {"name": "JIM", "codepoint": "U+062C", "joining": "DUAL"},
+  "ح": {"name": "HA", "codepoint": "U+062D", "joining": "DUAL"},
+  "خ": {"name": "KHA", "codepoint": "U+062E", "joining": "DUAL"},
+  "س": {"name": "SIN", "codepoint": "U+0633", "joining": "DUAL"},
+  "ش": {"name": "SHIN", "codepoint": "U+0634", "joining": "DUAL"},
+  "ص": {"name": "SAD", "codepoint": "U+0635", "joining": "DUAL"},
+  "ض": {"name": "DAD", "codepoint": "U+0636", "joining": "DUAL"},
+  "ط": {"name": "TAH", "codepoint": "U+0637", "joining": "DUAL"},
+  "ظ": {"name": "ZAH", "codepoint": "U+0638", "joining": "DUAL"},
+  "ع": {"name": "AYN", "codepoint": "U+0639", "joining": "DUAL"},
+  "غ": {"name": "GHAYN", "codepoint": "U+063A", "joining": "DUAL"},
+  "ف": {"name": "FA", "codepoint": "U+0641", "joining": "DUAL"},
+  "ق": {"name": "QAF", "codepoint": "U+0642", "joining": "DUAL"},
+  "ك": {"name": "KAF", "codepoint": "U+0643", "joining": "DUAL"},
+  "ل": {"name": "LAM", "codepoint": "U+0644", "joining": "DUAL"},
+  "م": {"name": "MIM", "codepoint": "U+0645", "joining": "DUAL"},
+  "ن": {"name": "NUN", "codepoint": "U+0646", "joining": "DUAL"},
+  "ه": {"name": "HA", "codepoint": "U+0647", "joining": "DUAL"},
+  "ي": {"name": "YA", "codepoint": "U+064A", "joining": "DUAL"}
+}
+
