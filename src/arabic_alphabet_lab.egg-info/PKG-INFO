@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: arabic-alphabet-lab
+Version: 0.1.0
+Summary: Arabic alphabet as a programmable system: letters, diacritics, joining logic, and analysis.
+Author: Hussain Ather
+License: MIT
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: ruff>=0.4.0; extra == "dev"
+
+# arabic-alphabet-lab

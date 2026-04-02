@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+src/arabic_alphabet_lab.egg-info/PKG-INFO
+src/arabic_alphabet_lab.egg-info/SOURCES.txt
+src/arabic_alphabet_lab.egg-info/dependency_links.txt
+src/arabic_alphabet_lab.egg-info/requires.txt
+src/arabic_alphabet_lab.egg-info/top_level.txt
